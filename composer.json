@@ -1,0 +1,12 @@
+{
+    "name": "bltr/threads-in-php",
+    "require": {
+        "php": "^7.4",
+        "ext-parallel": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
